@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A52A2AA6&vCenter=true&multiline=true&width=600&height=60&lines=I+am+Front-end+Developer+(Entry+Level))](https://vitalimay.github.io/rsschool-cv/)
+
+<!-- #2079E8A6 -->
+<!-- https://git.io/typing-svg -->
