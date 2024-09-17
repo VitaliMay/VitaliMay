@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 
 <div align="center">🌱 I’m currently learning</div>
 <div id="header" align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXptMzdqYjZjOXJ5ZHIzOGJjbDJ6Z2Y5NXU1bmhnaXY5MGo1eXpsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ejfEZhz0nh2kR0SZzn/giphy.gif" width="50"/>
+   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXptMzdqYjZjOXJ5ZHIzOGJjbDJ6Z2Y5NXU1bmhnaXY5MGo1eXpsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ejfEZhz0nh2kR0SZzn/giphy.gif" width="50"/> -->
+
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpmNmJ4ZXV5bmJ2YW53c3dqYWF1bGhzdG05Z3RmMGp6YzJqdWx4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJPZBIIqzbt1kAYVc/giphy.gif" width="310"/>
+
+  
 </div>
 
 **codewars**
