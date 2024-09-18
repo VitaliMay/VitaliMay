@@ -1,4 +1,10 @@
-## Hi there 👋
+<!-- ## Hi there 👋&nbsp; &nbsp; &nbsp; &nbsp;<span><a href="https://vitalimay.github.io/rsschool-cv/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI+Semibold&weight=600&pause=1000&color=A52A2AA6&vCenter=true&multiline=true&width=620&height=33&lines=I'm+a+Front-end+Developer+(Entry+Level)" alt="Typing SVG" /></a></a>&nbsp; &nbsp; &nbsp;</a>  <img src="https://komarev.com/ghpvc/?username=VitaliMay&style=flat-square&color=blue" alt="Profile views"/></span> -->
+
+<h2>Hi there&nbsp;  
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/>&nbsp; &nbsp; &nbsp; &nbsp;
+<span><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Segoe+UI+Semibold&weight=600&pause=1000&color=A52A2AA6&vCenter=true&multiline=true&width=620&height=33&lines=I'm+a+Front-end+Developer+(Entry+Level)" alt="Typing SVG" /></a></a>&nbsp; &nbsp; &nbsp;</a>
+<img src="https://komarev.com/ghpvc/?username=VitaliMay&style=flat-square&color=blue" alt="Profile views"/></span>
+</h2>
 
 <!--
 **VitaliMay/VitaliMay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +21,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A52A2AA6&vCenter=true&multiline=true&width=600&height=60&lines=I+am+Front-end+Developer+(Entry+Level))](https://vitalimay.github.io/rsschool-cv/)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A52A2AA6&vCenter=true&multiline=true&width=600&height=60&lines=I+am+Front-end+Developer+(Entry+Level))](https://vitalimay.github.io/rsschool-cv/)
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=VitaliMay&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-----
+---- -->
 
-<div align="center">🌱 I’m currently learning</div>
-<div id="header" align="left">
-   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXptMzdqYjZjOXJ5ZHIzOGJjbDJ6Z2Y5NXU1bmhnaXY5MGo1eXpsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ejfEZhz0nh2kR0SZzn/giphy.gif" width="50"/> -->
+<div align="center" style="margin-bottom:1rem">🌱 I’m currently learning</div>  
+<div align="left">
 
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpmNmJ4ZXV5bmJ2YW53c3dqYWF1bGhzdG05Z3RmMGp6YzJqdWx4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJPZBIIqzbt1kAYVc/giphy.gif" width="310"/>
+  <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpmNmJ4ZXV5bmJ2YW53c3dqYWF1bGhzdG05Z3RmMGp6YzJqdWx4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJPZBIIqzbt1kAYVc/giphy.gif" width="310"/> -->
 
-  
+  <img src="" alt="logo JS" width="310"/>
+
 </div>
 
 **codewars**
