@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpmNmJ4ZXV5bmJ2YW53c3dqYWF1bGhzdG05Z3RmMGp6YzJqdWx4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJPZBIIqzbt1kAYVc/giphy.gif" width="310"/> -->
 
-  <img src="" alt="logo JS" width="310"/>
+  <img src="./assets/svg/javascript.svg" alt="logo JS" width="60"/>
 
 </div>
 
