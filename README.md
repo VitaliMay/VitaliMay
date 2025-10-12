@@ -1,7 +1,7 @@
 <h2>
   Hi there&nbsp;
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/>&nbsp; &nbsp; &nbsp; &nbsp;
-  <span><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Segoe+UI+Semibold&weight=600&pause=1000&color=A52A2AA6&vCenter=true&multiline=true&width=620&height=33&lines=I'm+a+Front-end+Developer+(Entry+Level)" alt="Typing SVG" /></a></a>&nbsp; &nbsp; &nbsp;</a>
+  <!-- <span><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Segoe+UI+Semibold&weight=600&pause=1000&color=A52A2AA6&vCenter=true&multiline=true&width=620&height=33&lines=I'm+a+Front-end+Developer+(Entry+Level)" alt="Typing SVG" /></a></a>&nbsp; &nbsp; &nbsp;</a> -->
   <img src="https://komarev.com/ghpvc/?username=VitaliMay&style=flat-square&color=blue" alt="Profile views"/></span>
 </h2>
 
