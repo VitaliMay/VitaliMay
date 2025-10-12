@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitaliMay&theme=shadow-orange)](https://git.io/streak-stats)  
 
-----
+<!-- ---- -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitalimay&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitalimay&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ----
 
