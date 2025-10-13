@@ -81,3 +81,12 @@ Here are some ideas to get you started:
 </a>
 
 ![Codewars](https://github.r2v.ch/codewars?user=VitaliMay&stroke=%23BB432C&theme=gradient_light)
+
+----
+
+<h2>
+  📞 Contact
+</h2>
+<!-- ## 📞 Contact -->
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitalimay)
