@@ -54,7 +54,10 @@ Here are some ideas to get you started:
   🔥 My Stats
 </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitaliMay&theme=shadow-orange)](https://git.io/streak-stats)  
+[![](http://github-readme-streak-stats.herokuapp.com?user=VitaliMay&theme=shadow-orange)](https://git.io/streak-stats) 
+
+----
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitaliMay&theme=vue)  
 
 <!-- ---- -->
 
