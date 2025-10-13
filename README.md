@@ -1,7 +1,8 @@
 <h2>
   Hi there&nbsp;
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/>&nbsp; &nbsp; &nbsp; &nbsp;
-  <!-- <span><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Segoe+UI+Semibold&weight=600&pause=1000&color=A52A2AA6&vCenter=true&multiline=true&width=620&height=33&lines=I'm+a+Front-end+Developer+(Entry+Level)" alt="Typing SVG" /></a></a>&nbsp; &nbsp; &nbsp;</a> -->
+  I'm a Front-end Developer (Entry Level) &nbsp; &nbsp; &nbsp; &nbsp;
+  <!-- <span><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Segoe+UI+Semibold&weight=600&pause=1000&color=A52A2AA6&vCenter=true&multiline=true&width=620&height=33&lines=I'm+a+Front-end+Developer+(Entry Level)" alt="Typing SVG" /></a></a>&nbsp; &nbsp; &nbsp;</a> -->
   <img src="https://komarev.com/ghpvc/?username=VitaliMay&style=flat-square&color=blue" alt="Profile views"/></span>
 </h2>
 
@@ -44,6 +45,15 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
+
+----
+<h2>
+  📜 Course
+</h2>
+
+🎓 [THE ROLLING SCOPES SCHOOL JS/FE PRE-SCHOOL (JAVASCRIPT)](https://app.rs.school/certificate/pnjitgl5)  
+
+🎓 [THE ROLLING SCOPES SCHOOL JAVASCRIPT/FRONT-END](https://app.rs.school/certificate/hl93gr3t)
 
 ----
 
